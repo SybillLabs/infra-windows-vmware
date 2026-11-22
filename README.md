@@ -11,7 +11,7 @@ Mise en œuvre d'une infrastructure Windows pour une PME : Active Directory, DHC
 
 Maquette réalisée sur **VMware Workstation Pro**. Les comptes rendus par domaine technique seront disponible dans `docs/`.
 
-> Ce dépôt est référencé depuis [**SysNet Practice Labs**](https://github.com/SybillLabs/sysnet-practice-labs.git), le hub central de mes labs d'administration d'infrastructure sécurisée.
+> Ce dépôt est référencé depuis [**SysNet Practice Labs**](https://github.com/SybillLabs/sysnet-practice-labs), le hub central de mes labs d'administration d'infrastructure sécurisée.
 
 ## `> initial_model`
 ![image](/screenshots/initial_model.png)
