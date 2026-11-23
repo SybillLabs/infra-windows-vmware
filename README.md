@@ -5,6 +5,10 @@
 ## `> tech_stack`
 ![Static Badge](https://img.shields.io/badge/VMware%20Workstation-green?logo=vmware&logoColor=white&color=%23607078)
 ![Static Badge](https://img.shields.io/badge/Windows%20Server%202025-green?color=%2380B3FF)
+![Static Badge](https://img.shields.io/badge/Windows%2011-Green?color=%2380B3FF)
+![Static Badge](https://img.shields.io/badge/PowerShell-Green?color=white)
+
+
 
 ## `> overview`
 Mise en œuvre d'une infrastructure Windows pour une PME : Active Directory, DHCP, DNS, GPO, Réplication, Partage NTFS, Routage, Script PowerShell.
