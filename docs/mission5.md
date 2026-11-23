@@ -8,14 +8,10 @@
 - Mettre en œuvre la méthode AGDLP pour organiser l'attribution des droits d'accès aux ressources partagées.
 
 ## `> control_point`
-### 1. Configuration AGDLP sur **SRV-DC01/GL_IT**  
+### 1. Configuration AGDLP sur **SRV-DC01**  
 ![srv-dc01_agdlp](/screenshots/srv-dc01_agdlp.png)
 
-### 2. Vérification AGDLP sur **CLI-W11-01/GL_Direction**
-![cli-w11-01_agdlp](/screenshots/cli-w11-01_agdlp.png)
-
-### 2. Vérification AGDLP sur **CLI-W11-02/GL_Gestion**
-![cli-w11-02_agdlp](/screenshots/cli-w11-02_agdlp.png)
+> **Les permissions (*P de AGDLP*) se feront durant la [mission 7](/docs/mission7.md).**
 
 ## `> F.A.Q`
 - **_C'est quoi l'`AGDLP` ?_**
